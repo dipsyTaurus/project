@@ -1,1 +1,7 @@
 hello world,we are family
+var f1 = function(){
+  var a = 10
+  return a 
+  }
+  console.log(f1())
+
